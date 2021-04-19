@@ -1,0 +1,986 @@
+/*<meta />*/
+
+/* Full Tab */
+
+tab
+{
+	position: absolute;
+	width: 456px;
+	height: 1135px;
+	left: 824px;
+	top: 0px;
+	background: #FFFFFF;
+	border: 1px solid #E9ECEC;
+}
+
+/* Header */
+
+h1
+{
+	position: absolute;
+	width: 416px;
+	height: 104px;
+	left: 40px;
+	top: 40px;
+	background: #FFFFFF;
+}
+
+/* icon/cancel */
+
+icon
+{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 360px;
+	top: 0px;
+}
+
+/* cancel */
+
+cancel
+{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+
+/* Path */
+
+path
+{
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #4E5A5A;
+}
+
+/* Header Copy */
+/* Auto Layout */
+
+auto layout
+{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	position: absolute;
+	width: 328px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	background: #FFFFFF;
+}
+
+/* Revenue Generated */
+
+revenue generated
+{
+	position: static;
+	height: 24px;
+	left: 0%;
+	right: 64.51%;
+	top: calc(50% - 24px/2 - 24px);
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 24px;
+	/* identical to box height, or 100% */
+	letter-spacing: 0.25px;
+	color: #00302D;
+}
+
+/* Inside Auto Layout */
+
+inside auto layout
+{
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 8px 0px;
+}
+
+/* Average daily revenue */
+
+average daily revenue
+{
+	position: static;
+	height: 40px;
+	left: 0%;
+	right: 0%;
+	top: calc(50% - 40px/2 + 16px);
+	font-family: Ginto Normal;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 20px;
+	/* or 125% */
+	letter-spacing: 0.25px;
+	color: #4E5A5A;
+}
+
+/* Inside Auto Layout */
+
+Inside Auto Layout
+{
+	flex: none;
+	order: 1;
+	flex-grow: 0;
+	margin: 8px 0px;
+	/* Line 5 */
+	position: absolute;
+	width: 376px;
+	height: 0px;
+	left: 40px;
+	top: 178px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+	/* Line 4 */
+	position: absolute;
+	width: 416px;
+	height: 0px;
+	left: 40px;
+	top: 178px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+}
+
+/* Nav Bar */
+/* Auto Layout */
+
+auto layout
+{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 0px;
+	position: absolute;
+	width: 369px;
+	height: 34px;
+	left: 40px;
+	top: 144px;
+}
+
+/* Breadcrumb / unselected */
+/* Auto Layout */
+
+auto layout
+{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	position: static;
+	width: 45px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+
+inside layout
+{
+	/* Inside Auto Layout */
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 0px 8px;
+}
+
+/* Jelly bean */
+
+jelly bean
+{
+	position: static;
+	height: 16px;
+	left: 0%;
+	right: 0%;
+	top: calc(50% - 16px/2 - 9px);
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+/* identical to box height, or 100% */
+
+identical to box height
+{
+	letter-spacing: 0.25px;
+}
+
+/* UI / Core / Ink 25 */
+
+UI core ink25
+{
+	color: #C0C8C8;
+}
+
+/* Inside Auto Layout */
+
+inside auto layout
+{
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 16px 0px;
+}
+
+/* Rectangle */
+
+rectangle
+{
+	position: static;
+	left: 0%;
+	right: 0%;
+	top: 94.12%;
+	bottom: 0%;
+}
+
+/* Inside Auto Layout */
+
+inside auto layout
+{
+	flex: none;
+	order: 1;
+	align-self: stretch;
+	flex-grow: 0;
+	margin: 16px 0px;
+}
+
+/* Breadcrumb / arrow */
+
+breadcrumb arrow
+{
+	position: static;
+	width: 7px;
+	height: 34px;
+	left: 53px;
+	top: 0px;
+}
+
+/* Inside Auto Layout */
+
+inside auto layout
+{
+	flex: none;
+	order: 1;
+	flex-grow: 0;
+	margin: 0px 8px;
+}
+
+/* Breadcrumb / arrow */
+
+breadcrumb arrow
+{
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 52.94%;
+}
+
+/* Breadcrumb */
+
+breadcrumb
+{
+	position: absolute;
+	left: 0%;
+	right: 7.14%;
+	top: 25%;
+	bottom: 12.5%;
+}
+
+/* UI / Core / Ink 25 */
+
+UI Core ink25
+{
+	background: #C0C8C8;
+}
+
+/* Breadcrumb / unselected */
+/* Auto Layout */
+
+auto layout
+{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	position: static;
+	width: 125px;
+	height: 34px;
+	left: 68px;
+	top: 0px;
+}
+
+/* Inside Auto Layout */
+
+Inside auto layout
+{
+	flex: none;
+	order: 2;
+	flex-grow: 0;
+	margin: 0px 8px;
+}
+
+/* Jelly bean */
+
+jelly bean
+{
+	position: static;
+	height: 16px;
+	left: 0%;
+	right: 0%;
+	top: calc(50% - 16px/2 - 9px);
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 16px;
+	/* identical to box height, or 100% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 25 */
+	color: #C0C8C8;
+}
+
+/* Inside Auto Layout */
+
+inside auto layout
+{
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 16px 0px;
+}
+
+/* Rectangle */
+
+rectangle
+{
+	position: static;
+	left: 0%;
+	right: 0%;
+	top: 94.12%;
+	bottom: 0%;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 1;
+	align-self: stretch;
+	flex-grow: 0;
+	margin: 16px 0px;
+	/* Breadcrumb / arrow */
+	position: static;
+	width: 7px;
+	height: 34px;
+	left: 201px;
+	top: 0px;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 3;
+	flex-grow: 0;
+	margin: 0px 8px;
+	/* Breadcrumb / arrow */
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 52.94%;
+	/* Breadcrumb */
+	position: absolute;
+	left: 0%;
+	right: 7.14%;
+	top: 25%;
+	bottom: 12.5%;
+	/* UI / Core / Ink 25 */
+	background: #C0C8C8;
+	/* Breadcrumb / selected */
+	/* Auto Layout */
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	position: static;
+	width: 153px;
+	height: 34px;
+	left: 216px;
+	top: 0px;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 4;
+	flex-grow: 0;
+	margin: 0px 8px;
+	/* Jelly bean */
+	position: static;
+	height: 16px;
+	left: 0%;
+	right: 0%;
+	top: calc(50% - 16px/2 - 9px);
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 16px;
+	/* identical to box height, or 100% */
+	text-align: center;
+	letter-spacing: 0.25px;
+	color: #00857E;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 16px 0px;
+	/* Rectangle */
+	position: static;
+	left: 0%;
+	right: 0%;
+	top: 94.12%;
+	bottom: 0%;
+	background: #00857E;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 1;
+	align-self: stretch;
+	flex-grow: 0;
+	margin: 16px 0px;
+	/* Tutorial */
+	/* Auto Layout */
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	position: absolute;
+	width: 416px;
+	height: 917px;
+	left: 40px;
+	top: 178px;
+	background: #FFFFFF;
+	/* Subheader */
+	position: static;
+	width: 416px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 0;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Overview */
+	position: absolute;
+	width: 148px;
+	height: 23px;
+	left: 0px;
+	top: 24px;
+	/* Heading / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px;
+	/* or 120% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 100 */
+	color: #00302D;
+	/* Select */
+	position: absolute;
+	height: 6px;
+	left: 87.98%;
+	right: 9.62%;
+	top: 36px;
+	background: #00302D;
+	/* modal row */
+	position: static;
+	width: 376px;
+	height: 258px;
+	left: 0px;
+	top: 71px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 1;
+	align-self: flex-start;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Rectangle 96 */
+	position: absolute;
+	width: 376px;
+	height: 208px;
+	left: 0px;
+	top: 0px;
+	background: #CFE3F3;
+	border-radius: 8px;
+	/* Create and edit sign-up units */
+	position: absolute;
+	width: 189px;
+	height: 18px;
+	left: 0px;
+	top: 216px;
+	/* Body / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+	letter-spacing: 0.25px;
+}
+
+/* UI / Core / Ink 75 */
+
+UI core ink25
+{
+	color: #4E5A5A;
+	/* Line 2 */
+	position: static;
+	width: 416px;
+	height: 0px;
+	left: 0px;
+	top: 329px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 2;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Subheader */
+	position: static;
+	width: 416px;
+	height: 71px;
+	left: 0px;
+	top: 329px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 3;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Quick tips */
+	position: absolute;
+	width: 148px;
+	height: 23px;
+	left: 0px;
+	top: 24px;
+	/* Heading / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px;
+	/* or 120% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 100 */
+	color: #00302D;
+	/* Select */
+	position: absolute;
+	height: 6px;
+	left: 87.98%;
+	right: 9.62%;
+	top: 36px;
+	background: #00302D;
+	/* quick tip row */
+	position: static;
+	width: 376px;
+	height: 145px;
+	left: 0px;
+	top: 400px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 4;
+	align-self: flex-start;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Replace fonts */
+	position: absolute;
+	width: 89px;
+	height: 18px;
+	left: 0px;
+	top: 103px;
+	/* Body / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* Rectangle 68 */
+	position: absolute;
+	width: 171px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	background: #DFF3E2;
+	border-radius: 8px;
+	/* Adjust mask opacity */
+	position: absolute;
+	width: 132px;
+	height: 18px;
+	left: 205px;
+	top: 103px;
+	/* Body / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* Rectangle 69 */
+	position: absolute;
+	width: 171px;
+	height: 95px;
+	left: 205px;
+	top: 0px;
+	background: #DFF3E2;
+	border-radius: 8px;
+	/* quick tip row */
+	position: static;
+	width: 376px;
+	height: 145px;
+	left: 0px;
+	top: 545px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 5;
+	align-self: flex-start;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Clone a unit */
+	position: absolute;
+	width: 79px;
+	height: 18px;
+	left: 0px;
+	top: 103px;
+	/* Body / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* Rectangle 68 */
+	position: absolute;
+	width: 171px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	background: #DFF3E2;
+	border-radius: 8px;
+	/* Rename a unit */
+	position: absolute;
+	width: 91px;
+	height: 18px;
+	left: 205px;
+	top: 103px;
+	/* Body / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height, or 129% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* Rectangle 69 */
+	position: absolute;
+	width: 171px;
+	height: 95px;
+	left: 205px;
+	top: 0px;
+	background: #DFF3E2;
+	border-radius: 8px;
+	/* Line 3 */
+	position: static;
+	width: 416px;
+	height: 0px;
+	left: 0px;
+	top: 690px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 6;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Subheader */
+	position: static;
+	width: 416px;
+	height: 71px;
+	left: 0px;
+	top: 690px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 7;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Related help */
+	position: absolute;
+	width: 148px;
+	height: 23px;
+	left: 0px;
+	top: 24px;
+	/* Heading / Small */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px;
+	/* or 120% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 100 */
+	color: #00302D;
+	/* Select */
+	position: absolute;
+	height: 6px;
+	left: 87.98%;
+	right: 9.62%;
+	top: 36px;
+	background: #00302D;
+	/* Subheader */
+	position: static;
+	width: 416px;
+	height: 52px;
+	left: 0px;
+	top: 761px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 8;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Lorem ipsum dolor sit amet */
+	position: absolute;
+	width: 202px;
+	height: 20px;
+	left: 0px;
+	top: 16px;
+	/* Body / Regular */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+	/* identical to box height, or 125% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* icons / NewWindow
+
+icons / NewWindow
+*/
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 359px;
+	top: 14px;
+	/* Rectangle 88 */
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	/* Shape */
+	position: absolute;
+	left: 16.67%;
+	right: 16.39%;
+	top: 16.67%;
+	bottom: 16.67%;
+	/* UI / Core / Ink 75 */
+	background: #4E5A5A;
+	/* Line 4 */
+	position: static;
+	width: 416px;
+	height: 0px;
+	left: 0px;
+	top: 813px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 9;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Subheader */
+	position: static;
+	width: 416px;
+	height: 52px;
+	left: 0px;
+	top: 813px;
+	background: #FFFFFF;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 10;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Lorem ipsum dolor sit amet */
+	position: absolute;
+	width: 202px;
+	height: 20px;
+	left: 0px;
+	top: 16px;
+	/* Body / Regular */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+	/* identical to box height, or 125% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* icons / NewWindow
+
+icons / NewWindow
+*/
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 359px;
+	top: 14px;
+	/* Rectangle 88 */
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	/* Shape */
+	position: absolute;
+	left: 16.67%;
+	right: 16.39%;
+	top: 16.67%;
+	bottom: 16.67%;
+	/* UI / Core / Ink 75 */
+	background: #4E5A5A;
+	/* Line 6 */
+	position: static;
+	width: 416px;
+	height: 0px;
+	left: 0px;
+	top: 865px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 11;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+}
+
+/* Subheader */
+
+h2
+{
+	position: static;
+	width: 416px;
+	height: 52px;
+	left: 0px;
+	top: 865px;
+	background: #FFFFFF;
+}
+
+/* Inside Auto Layout */
+
+inside auto layout
+{
+	flex: none;
+	order: 12;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+	/* Lorem ipsum dolor sit amet */
+	position: absolute;
+	width: 202px;
+	height: 20px;
+	left: 0px;
+	top: 16px;
+	/* Body / Regular */
+	font-family: Pulp Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+	/* identical to box height, or 125% */
+	letter-spacing: 0.25px;
+	/* UI / Core / Ink 75 */
+	color: #4E5A5A;
+	/* icons / NewWindow
+
+icons / NewWindow
+*/
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 359px;
+	top: 14px;
+	/* Rectangle 88 */
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	/* Shape */
+	position: absolute;
+	left: 16.67%;
+	right: 16.39%;
+	top: 16.67%;
+	bottom: 16.67%;
+	/* UI / Core / Ink 75 */
+	background: #4E5A5A;
+	/* Line 5 */
+	position: static;
+	width: 416px;
+	height: 0px;
+	left: 0px;
+	top: 917px;
+	/* UI / Core / Ink 10 */
+	border: 1px solid #E9ECEC;
+	/* Inside Auto Layout */
+	flex: none;
+	order: 13;
+	align-self: center;
+	flex-grow: 0;
+	margin: 0px 0px;
+}
+
+div.modal
+{
+	mc-grid-row: true;
+	margin-left: auto;
+}
+
+@media tablet
+{
+	frame:active
+	{
+		
+	}
+}
+

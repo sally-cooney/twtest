@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  Comment="This is the default skin"
+  Anchors="Right,Width,Height"
+  Width="1125px"
+  Height="900px"
+  Top="720px"
+  Left="1520px"
+  Bottom="420px"
+  Right="1195px"
+  Tabs="TOC,Index,Search,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="false"
+  UseDefaultBrowserSetup="false"
+  EnableAboutBox="false">
+  <Index
+    BinaryStorage="True" />
+  <HtmlHelpOptions
+    ShowMenuBar="False"
+    TopmostWindowStyle="False"
+    Buttons="Hide,Locate,Back,Forward,Stop,Refresh,Home,Font,Print"
+    EnableButtonCaptions="True" />
+  <Stylesheet />
+  <WebHelpOptions
+    NavigationPanePosition="Right"
+    HideNavigationOnStartup="false" />
+</CatapultSkin>
